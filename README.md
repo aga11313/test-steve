@@ -6,4 +6,4 @@ some words hahalhaha
 
 Agnes change number 3
 
-ak-47: [damage: '230']
+ak-47: [damage: '240']
